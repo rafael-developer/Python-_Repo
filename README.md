@@ -1,2 +1,2 @@
-# Python-_Repo
+# Python_Repo
 This repository has the objective of documenting the learning of a new language.
